@@ -1,4 +1,4 @@
-# Todo
+
 This is the plugin for slicer of which has used Deep learning techniques such as CNN in order to take medical images of thoracic and lumbar spine as an input and shows the result of segmentation in those specific parts. 
 There is a model which is the result of the neural network that is being employed in this plugin of which predicts the segmentation area for each correspondant vertebra. 
 
